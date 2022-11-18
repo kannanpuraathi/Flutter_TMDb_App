@@ -57,7 +57,7 @@ class SplashScreen extends StatelessWidget {
                       // color: Colors.orange,
                       child: Center(
                           child: BorderedText(
-                            strokeWidth: 1,
+                            strokeWidth: 2,
                             strokeColor: Colors.white70,
                             child: const Text(
                               'TMDb',
